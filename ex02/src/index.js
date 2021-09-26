@@ -18,4 +18,4 @@ function myFunction(myObj) {
 }
 // Only change code above this line
 console.log(myFunction(myClothes));
-module.exports = myFunction;
+module.exports = myFunction(myClothes);
